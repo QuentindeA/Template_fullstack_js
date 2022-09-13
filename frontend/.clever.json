@@ -1,0 +1,18 @@
+{
+  "apps": [
+    {
+      "app_id": "",
+      "org_id": "",
+      "deploy_url": "",
+      "name": "FEE FRONTEND STAGING",
+      "alias": "FEE-FRONTEND-STAGING"
+    },
+    {
+      "app_id": "",
+      "org_id": "",
+      "deploy_url": "",
+      "name": "FRONTEND PROD",
+      "alias": "FRONTEND-PROD"
+    }
+  ]
+}

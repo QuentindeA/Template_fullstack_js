@@ -1,0 +1,44 @@
+/********* INSCRIPTION Page ********/
+
+.inscription-white-container {
+  padding: 50px;
+  background-color: white;
+  border-radius: 25px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  width: 50vw;
+  z-index: 9;
+  max-width: 500px;
+  min-width: 300px;
+  margin-top: 10vh;
+}
+.MuiTextField-root {
+  margin-top: 10px;
+}
+
+.connection-link {
+  text-decoration: underline;
+  margin-top: 30px;
+}
+.connection-link:hover {
+  color: #03546d;
+  cursor: pointer;
+}
+
+@media (max-width: 796px) {
+  .visual-decoration-container {
+    display: none;
+  }
+
+  .inscription-white-container {
+    width: 100vw;
+    min-height: 100vh;
+    margin-top: 0px;
+    max-width: unset;
+    min-width: unset;
+  }
+}
+
+/** End Inscription Page */

@@ -1,0 +1,15 @@
+{
+  "sourceRoot": "src",
+  "compilerOptions": {
+    "plugins": [
+      {
+        "name": "@nestjs/graphql",
+        "options": {
+          "introspectComments": true
+        }
+      }
+    ],
+    "assets": ["modules/mail/templates/**/*.hbs"],
+    "watchAssets": true
+  }
+}

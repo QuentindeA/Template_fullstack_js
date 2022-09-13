@@ -1,0 +1,7 @@
+query getLegatorUsers {
+  user {
+    legators {
+      _id
+    }
+  }
+}

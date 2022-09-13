@@ -1,0 +1,18 @@
+{
+  "apps": [
+    {
+      "app_id": "",
+      "org_id": "",
+      "deploy_url": "",
+      "name": "FEE BACKEND STAGING",
+      "alias": "FEE-BACKEND-STAGING"
+    },
+    {
+      "app_id": "",
+      "org_id": "",
+      "deploy_url": "",
+      "name": "BACKEND PROD",
+      "alias": "BACKEND-PROD"
+    }
+  ]
+}
